@@ -37,7 +37,7 @@ button {
     background: darkgreen;
 }
 #reset-btn{
-    background: darkgoldenrod;
+    background: rgb(158, 121, 26);
 }
 #main{
     max-width: 400px;
